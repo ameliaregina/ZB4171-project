@@ -86,15 +86,15 @@ EC2 AWS RStudio-Server AMI
 ### 3. How long would it take for you to complete the task?
 ### 4. Provide an estimate of what day you expect the task to be done by?
 GSE202695: Proceed with clustering but mention how the dataset might be inappropriate and therefore we 
-will refrain from making any assumptions [IC: Chris]
+will refrain from making any assumptions [IC: Chris; ETA Friday 11th]
 
 EC2 RStudio AMI: Get all the required dependencies downloaded and ensure all programs work fine by testing 
-with whatever dataset is in the S3 bucket. [IC: Wei Jing]
+with whatever dataset is in the S3 bucket. [IC: Wei Jing; ETA Saturday 12th (BEST CASE) / Sunday 13th (WORST CASE)]
 
 GSE200218 and GSE181919: we would require a suitable EC2 instance with RStudio to run due to the large 
 nature of the dataset, however the pipeline will be the same using the original script written
-however, the script may require tweaking to suit the formatting of fils in each dataset [IC: Whoever available]
+however, the script may require tweaking to suit the formatting of fils in each dataset [IC: Whoever available; ETA dependent on AMI]
 
-Presentation and Report: Presentation Tuesday, Report Wednesday (BEST CASE SCENARIO) [ICs: Wei Lin, Amelia]
+Presentation and Report: [ICs: Wei Lin, Amelia; ETA: Presentation Tuesday 15th, Report Wednesday 16th (BEST CASE)]
 
 
