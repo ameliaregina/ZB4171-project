@@ -56,29 +56,29 @@ EC2 AWS RStudio-Server AMI
 ### 2. Date of Final Exams
 ### 3. When you need to start studying for [- 2.]. 
 1. Wei Jing
-   1-1. Quiz 
+   - 1. Quiz 
         11/11/2022
-   1-2. 19/11/2022 and 21/11/2022    
-   1-3. Willing to Half-Half until 16/11/2022
+   - 2. 19/11/2022 and 21/11/2022    
+   - 3. Willing to Half-Half until 16/11/2022
    Side-note: if unable to finish during reading week, willing to take over after 21/11/2022
 
 2. Weilin
-   2-1. Quiz | Personal Plans | Rushing Report
+   - 1. Quiz | Personal Plans | Rushing Report
         11/11/2022 | 12/11/2022 - NOON | 13/11/2022
-   2-2. 19/11/2022 and 28/11/2022
-   2-3. Willing to Half-Half
+   - 2. 19/11/2022 and 28/11/2022
+   - 3. Willing to Half-Half
 
 3. Christopher
-   3-1. Assignment
+   - 1. Assignment
         12/11/2022
-   3-2. 22/11/2022 and 01/12/2022
-   3-3. Full-time till 15th - latest 17th Nov
+   - 2. 22/11/2022 and 01/12/2022
+   - 3. Full-time till 15th - latest 17th Nov
 
 4. Amelia
-   4-1. MA Assignment | LSM4242 Report
+   - 1. MA Assignment | LSM4242 Report
         12/11/2022 | 13/11/2022
-   4-2. 19/11/2022 and 01/12/2022
-   4-3. Willing to Half-Half until 16/11/2022
+   - 2. 19/11/2022 and 01/12/2022
+   - 3. Willing to Half-Half until 16/11/2022
 
 ## 6. For items stated in [4.], Please elaborate on:
 ### 1. Who would be responsible for completing this process?
