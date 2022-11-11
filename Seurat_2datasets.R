@@ -19,8 +19,7 @@ devtools::install_github('satijalab/seurat-wrappers')
 # remotes may result in the message "API rate limit exceeded"
 
 #4. AWS Interaction----------------------------------------------------------------------------
-# Access ID: AKIAR4S22DSAKPBWY5ZA 
-# Secret access key: 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 
+
 # Use the above ID and Secret access key, as well as the region/server information 
 # to allow this Rstudio instance access to the files in the S3 Bucket
 Sys.setenv("AWS_DEFAULT_REGION" = "ap-southeast-1")
