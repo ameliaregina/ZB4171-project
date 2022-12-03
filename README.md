@@ -3,7 +3,7 @@
 ### **Group members: Amelia, Chris, Wei Jing, Wei Lin**
 
 ## 1. What our goal is?
-To characterize phenotypic plasticity by cell trajectory inferences and differential gene expression analyses on pan-cancer primary and metastatic tumors. 
+To characterize the phenotypic plasticity of different cell types by cell trajectory inferences and differential gene expression analyses on pan-cancer primary and metastatic tumors. 
 By looking into various cancer datasets, we hope to identify potential genes responsible for initiating the hallmark of phenotypic plasticity in cancer so that we can suggest novel metastasis biomarkers or therapeutic targets to prevent cancer progression.
 
 ## 2. What datasets are we using?
